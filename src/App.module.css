@@ -1,0 +1,14 @@
+.container {
+  margin: 16px;
+  padding: 28px;
+  border: 1px solid #ddd;
+}
+
+.infoContainer {
+  margin-top: 20px;
+}
+
+.infoLine {
+  display: flex;
+  align-items: center;
+}
